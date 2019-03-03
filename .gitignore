@@ -26,3 +26,9 @@ project.xcworkspace
 #
 node_modules/
 npm-debug.log
+
+android/\.gradle/
+
+android/\.settings/
+
+android/\.project
